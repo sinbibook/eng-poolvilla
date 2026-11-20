@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-11-20T02:51:37.202132503Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-11-20T02:52:58.435096833Z",
     "templateType": "trip_l",
     "propertyId": "01a1c81f-5b04-797f-8219-039889fc99ee",
     "homepageId": "01a1f693-863d-7f94-b737-9b2a1ebaf847"
@@ -619,7 +619,7 @@
                 "description": ""
               },
               "gallery": {
-                "title": "",
+                "title": "특별한 공간",
                 "images": [ ],
                 "videos": [ ],
                 "mediaType": "image",
