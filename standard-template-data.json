@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-11-20T02:54:25.854230038Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-11-20T03:06:43.496160914Z",
     "templateType": "trip_l",
     "propertyId": "01a1c81f-5b04-797f-8219-039889fc99ee",
     "homepageId": "01a1f693-863d-7f94-b737-9b2a1ebaf847"
@@ -228,6 +228,14 @@
             "id": "01a1f675-0832-7fca-a370-0aa504465ef3",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1cee1-c359-7433-b5a1-51eed4b1de6e/main/1795136226979-ucy32jyc16.jpg",
             "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1f6e3-6222-719e-82b0-9638188289d2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1cee1-c359-7433-b5a1-51eed4b1de6e/main/1795143458800-03e7h2nv7d.jpg",
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -492,7 +500,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "자연을 곁에 두고 느리게 보내는 하루",
                 "images": [
                   {
                     "id": "01a1f699-42a3-71c8-a8e1-b72aff23fde1",
@@ -1184,8 +1192,8 @@
               "category": "roomtype_interior"
             },
             {
-              "id": "01a1f6da-84d1-7e98-8042-a4854a45cb82",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/roomtype_exterior/1795142878109-c2gt618c4a.JPG",
+              "id": "01a1f6eb-a87d-7bad-a22f-9907b19738e9",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/roomtype_exterior/1795144001361-x0o47qco8t.jpg",
               "sortOrder": 0,
               "description": "",
               "isSelected": true,
