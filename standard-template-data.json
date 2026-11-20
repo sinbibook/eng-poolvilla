@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2026-11-20T03:27:44.945996228Z",
+    "version": "1.16.0",
+    "generatedAt": "2026-11-20T03:31:56.204995231Z",
     "templateType": "trip_l",
     "propertyId": "01a1c81f-5b04-797f-8219-039889fc99ee",
     "homepageId": "01a1f693-863d-7f94-b737-9b2a1ebaf847"
@@ -250,8 +250,8 @@
         "displayOrder": 5,
         "images": [
           {
-            "id": "01a1f675-0bca-7de3-8230-a7c34806aa4e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1cee1-c359-7828-b859-774865cfb2d8/main/1795136227572-fekekdz7lm.jpg",
+            "id": "01a1f702-021b-7fe2-99a9-279cb86e71ab",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1cee1-c359-7828-b859-774865cfb2d8/main/1795145466060-elnv93eg0b.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
@@ -659,19 +659,11 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "01a1f6e0-6771-77d6-8075-30ec4f377863",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/directions_hero/1795143263419-zpqfiqhk4n.jpg",
+                    "id": "01a1f702-bfd7-7b05-863e-d7b978d71e04",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/directions_hero/1795145514692-ltv76z7jfe.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "01a1f6d8-f77d-7787-bc8e-f016d5f0b8d1",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/directions_hero/1795142776375-l51ri8bmfh.jpg",
-                    "sortOrder": 1,
-                    "description": "",
-                    "isSelected": false,
                     "blockId": null
                   }
                 ]
