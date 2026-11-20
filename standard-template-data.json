@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-11-20T03:06:43.496160914Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-11-20T03:08:23.951915823Z",
     "templateType": "trip_l",
     "propertyId": "01a1c81f-5b04-797f-8219-039889fc99ee",
     "homepageId": "01a1f693-863d-7f94-b737-9b2a1ebaf847"
@@ -766,7 +766,7 @@
               },
               "about": [
                 {
-                  "title": "",
+                  "title": "자연을 곁에 두고 느리게 보내는 하루",
                   "images": [
                     {
                       "id": "01a1f6d5-e96f-7735-8ea2-bcfd08155f74",
