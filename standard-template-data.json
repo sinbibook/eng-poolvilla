@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-11-20T02:42:59.021873103Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-11-20T02:46:18.071769235Z",
     "templateType": "trip_l",
     "propertyId": "01a1c81f-5b04-797f-8219-039889fc99ee",
     "homepageId": "01a1f693-863d-7f94-b737-9b2a1ebaf847"
@@ -612,7 +612,7 @@
                 "description": ""
               },
               "essence": {
-                "title": "",
+                "title": "편안하게 머무는 공간",
                 "images": [ ],
                 "videos": [ ],
                 "mediaType": "image",
@@ -649,7 +649,16 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ]
+                "images": [
+                  {
+                    "id": "01a1f6d8-f77d-7787-bc8e-f016d5f0b8d1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/directions_hero/1795142776375-l51ri8bmfh.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ]
               },
               "notice": {
                 "title": "",
