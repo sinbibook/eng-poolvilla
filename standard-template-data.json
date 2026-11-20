@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-20T02:25:15.727528322Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-20T02:38:23.670547091Z",
     "templateType": "trip_l",
     "propertyId": "01a1c81f-5b04-797f-8219-039889fc99ee",
     "homepageId": "01a1f693-863d-7f94-b737-9b2a1ebaf847"
@@ -461,7 +461,16 @@
     "templateType": "trip_l",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "01a1f6d1-b4b5-7391-8617-cbaad395f6f4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/logo/1795142300418-5115rzxn70.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
@@ -489,7 +498,7 @@
                     "id": "01a1f699-42a3-71c8-a8e1-b72aff23fde1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/index_hero/1795138600817-8nfbgzypie.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "프라이빗",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -497,7 +506,7 @@
                     "id": "01a1f699-4313-76f4-ac79-a8cae301af99",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/index_hero/1795138600792-7fxpn63ua4.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "자연",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -505,7 +514,7 @@
                     "id": "01a1f699-42c1-7034-b3a5-7dad53116412",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/index_hero/1795138600808-3ugde19p82.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "휴식",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -588,7 +597,16 @@
               },
               "closing": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a1f6d1-b591-7051-9457-f3edf88c7b5d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/index_closing/1795142300415-yio08gwbx9.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": ""
@@ -609,7 +627,16 @@
               },
               "signature": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a1f6d1-b4fa-7ccd-a771-cf7baab45454",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/index_signature/1795142300419-6ijp7l1zdz.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": ""
