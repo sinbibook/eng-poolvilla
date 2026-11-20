@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-11-20T03:08:23.951915823Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-11-20T03:16:03.301227715Z",
     "templateType": "trip_l",
     "propertyId": "01a1c81f-5b04-797f-8219-039889fc99ee",
     "homepageId": "01a1f693-863d-7f94-b737-9b2a1ebaf847"
@@ -856,7 +856,23 @@
             }
           ]
         },
-        "room": [ ],
+        "room": [
+          {
+            "id": "01a1cefe-c138-70df-9e83-6168a36a9886",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ]
+                }
+              }
+            ]
+          }
+        ],
         "facility": [ ],
         "reservation": {
           "sections": [
@@ -1192,8 +1208,8 @@
               "category": "roomtype_interior"
             },
             {
-              "id": "01a1f6eb-a87d-7bad-a22f-9907b19738e9",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/roomtype_exterior/1795144001361-x0o47qco8t.jpg",
+              "id": "01a1f6f4-3436-700c-9750-4c77761dff89",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/roomtype_exterior/1795144561130-pqoaqqtd9v.JPG",
               "sortOrder": 0,
               "description": "",
               "isSelected": true,
