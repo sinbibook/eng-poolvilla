@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-11-20T02:52:58.435096833Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-11-20T02:54:25.854230038Z",
     "templateType": "trip_l",
     "propertyId": "01a1c81f-5b04-797f-8219-039889fc99ee",
     "homepageId": "01a1f693-863d-7f94-b737-9b2a1ebaf847"
@@ -651,11 +651,19 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "01a1f6d8-f77d-7787-bc8e-f016d5f0b8d1",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/directions_hero/1795142776375-l51ri8bmfh.jpg",
+                    "id": "01a1f6e0-6771-77d6-8075-30ec4f377863",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/directions_hero/1795143263419-zpqfiqhk4n.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a1f6d8-f77d-7787-bc8e-f016d5f0b8d1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/directions_hero/1795142776375-l51ri8bmfh.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": false,
                     "blockId": null
                   }
                 ]
@@ -847,7 +855,16 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ]
+                "images": [
+                  {
+                    "id": "01a1f6e0-66f9-7f83-a766-019601ccbadf",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1f693-863d-7f94-b737-9b2a1ebaf847/reservation_hero/1795143263422-9z5l5awg9g.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ]
               },
               "about": {
                 "title": "",
